@@ -7,7 +7,7 @@ title: Answers
 
 This page defines the Answer resource.
 
-Answers are responses a person gave to a question defined by the [Question](questions.html) resource. For example, a Question might ask, "Do you support John Doe For City Council?" and an answer might be "Yes", indicating the person's resonse to the questio.
+Answers are responses a person gave to a question defined by the [Question](questions.html) resource. For example, a Question might ask, "Do you support John Doe For City Council?" and an answer might be "Yes", indicating the person's resonse to the question.
 
 ### Sections
 
